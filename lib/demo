@@ -1,0 +1,26 @@
+import 'dart:async';
+import 'package:cng/splash1.dart';
+import 'package:flutter/widgets.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+class detailed_screen extends StatefulWidget {
+  @override
+  State<detailed_screen> createState() => _SplashState();
+}
+
+class _SplashState extends State<detailed_screen> {
+  @override
+  void initState() {
+    super.initStatea();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Container(),
+    );
+  }
+}

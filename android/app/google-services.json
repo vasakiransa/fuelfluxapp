@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438767336200",
+    "project_id": "fuelflux-9d713",
+    "storage_bucket": "fuelflux-9d713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438767336200:android:43a2dcff9aaca03ef1cabd",
+        "android_client_info": {
+          "package_name": "com.example.cng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXnZAAdzk8CneC8VQ-SI01bNA1Dsx0ZME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
