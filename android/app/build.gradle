@@ -13,6 +13,19 @@ if (localPropertiesFile.exists()) {
     }
 }
 
+android {
+    compileSdkVersion 34
+
+    defaultConfig {
+        applicationId "com.example.yourapp"
+        minSdkVersion 23
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+    }
+    // other configurations...
+}
+
 def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
 if (flutterVersionCode == null) {
     flutterVersionCode = '1'
