@@ -1,6 +1,6 @@
 // Root-level (project-level) build.gradle
 buildscript {
-    ext.kotlin_version = '1.9.0' // Define the Kotlin version here
+    ext.kotlin_version = '1.7.1' // Define the Kotlin version here
 
     repositories {
         google()
